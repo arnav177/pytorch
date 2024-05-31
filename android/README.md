@@ -1,6 +1,6 @@
-# Android
+#  Android
 
-## Demo applications and tutorials
+## Demo applications and tutorials for everyone
 
 Demo applications with code walk-through can be find in [this github repo](https://github.com/pytorch/android-demo-app).
 
